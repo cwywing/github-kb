@@ -22,11 +22,11 @@ gh auth login
 
 ## 推送到 GitHub
 
-1. 在 GitHub 创建新仓库（例如：`githb-kb`）
+1. 在 GitHub 创建新仓库（例如：`github-kb`）
 
 2. 添加远程仓库并推送：
 ```bash
-git remote add origin https://github.com/goodniuniu/githb-kb.git
+git remote add origin https://github.com/goodniuniu/github-kb.git
 git branch -M main
 git push -u origin main
 ```
@@ -35,8 +35,8 @@ git push -u origin main
 
 ```bash
 # 1. Clone 项目
-git clone https://github.com/goodniuniu/githb-kb.git
-cd githb-kb
+git clone https://github.com/goodniuniu/github-kb.git
+cd github-kb
 
 # 2. 安装 gh CLI（如果未安装）
 bash skills/github-kb/install-gh.sh

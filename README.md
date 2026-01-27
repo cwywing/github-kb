@@ -1,4 +1,4 @@
-# GitHub Knowledge Base
+# GitHub KB (github-kb)
 
 A simple skill for Claude Code to manage your local GitHub knowledge base.
 
