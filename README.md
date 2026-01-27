@@ -177,11 +177,11 @@ gh auth login
 cd ~/github
 
 # AI 助手
-gh repo clone Clawd/clawdbot
+gh repo clone clawdbot/clawdbot
 
 # AI 编码代理
-gh repo clone openinterpreter/opencode
-gh repo clone openai/open-interpreter
+gh repo clone OpenInterpreter/open-interpreter
+gh repo clone code-yeongyu/oh-my-opencode
 
 # LLM 框架
 gh repo clone langchain-ai/langchain

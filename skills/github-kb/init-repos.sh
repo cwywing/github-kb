@@ -32,10 +32,9 @@ cd "$KB_DIR"
 
 # List of recommended repositories
 declare -A REPOS=(
-    ["AI & Assistants/clawdbot"]="Clawd/clawdbot"
+    ["AI & Assistants/clawdbot"]="clawdbot/clawdbot"
     ["AI & Assistants/open-interpreter"]="OpenInterpreter/open-interpreter"
-    ["AI Coding Agents/opencode"]="openinterpreter/opencode"
-    ["AI Coding Agents/oh-my-opencode"]="anthropics/oh-my-opencode"
+    ["AI Coding Agents/oh-my-opencode"]="code-yeongyu/oh-my-opencode"
     ["LLM Frameworks/langchain"]="langchain-ai/langchain"
     ["LLM Frameworks/transformers"]="huggingface/transformers"
     ["Development Tools/llama.cpp"]="ggerganov/llama.cpp"
