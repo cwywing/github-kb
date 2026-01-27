@@ -14,3 +14,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.log
+
+# WeChat images
+微信图片_*.jpg
